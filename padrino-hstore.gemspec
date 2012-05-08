@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
 
   s.authors = ["Cory Buecker"]
   s.date = %q{2012-05-08}
-  s.description = %q{This gem adds support for hstore to Activerecord (< v4) on the Padrino framework.}
+  s.summary = %q{This gem adds support for hstore to Activerecord (< v4) on the Padrino framework.}
   s.email = %q{email@corybuecker.com}
   s.extra_rdoc_files = [
     "LICENSE.md",
