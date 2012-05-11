@@ -11,4 +11,4 @@ Add the following to your Gemfile (note that Padrino must be loaded first):
     gem "padrino-hstore"
     
 ## Usage
-Not much to tell here. You can use hstore as a column type and all conversions are handled for you. Check https://github.com/softa/activerecord-postgres-hstore for more details.
+Not much to tell here. You can use hstore as a column type and all string/hash conversions are handled for you. Check https://github.com/softa/activerecord-postgres-hstore for more details.
